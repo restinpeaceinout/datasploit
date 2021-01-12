@@ -24,3 +24,4 @@ tldextract==2.0.1
 tqdm==4.7.6
 termcolor
 tweepy==3.5.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
