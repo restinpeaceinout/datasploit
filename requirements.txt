@@ -5,7 +5,7 @@ billiard==3.3.0.23
 bs4==0.0.1
 clearbit==0.1.4
 config==0.3.9
-dnspython==1.14.0
+dnspython==2.6.0rc1
 future==0.15.2
 google-api-python-client==1.6.3
 idna==2.1
