@@ -21,6 +21,6 @@ requests==2.10.0
 requests-file==1.4
 simplejson==3.8.2
 tldextract==2.0.1
-tqdm==4.7.6
+tqdm==4.66.3
 termcolor
 tweepy==3.5.0
